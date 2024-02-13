@@ -1,0 +1,15 @@
+G:\Workshop\CaesarCipherCompleteApp\bin\Debug\net7.0\CaesarCipherCompleteApp.exe
+G:\Workshop\CaesarCipherCompleteApp\bin\Debug\net7.0\CaesarCipherCompleteApp.deps.json
+G:\Workshop\CaesarCipherCompleteApp\bin\Debug\net7.0\CaesarCipherCompleteApp.runtimeconfig.json
+G:\Workshop\CaesarCipherCompleteApp\bin\Debug\net7.0\CaesarCipherCompleteApp.dll
+G:\Workshop\CaesarCipherCompleteApp\bin\Debug\net7.0\CaesarCipherCompleteApp.pdb
+G:\Workshop\CaesarCipherCompleteApp\obj\Debug\net7.0\CaesarCipherCompleteApp.csproj.AssemblyReference.cache
+G:\Workshop\CaesarCipherCompleteApp\obj\Debug\net7.0\CaesarCipherCompleteApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workshop\CaesarCipherCompleteApp\obj\Debug\net7.0\CaesarCipherCompleteApp.AssemblyInfoInputs.cache
+G:\Workshop\CaesarCipherCompleteApp\obj\Debug\net7.0\CaesarCipherCompleteApp.AssemblyInfo.cs
+G:\Workshop\CaesarCipherCompleteApp\obj\Debug\net7.0\CaesarCipherCompleteApp.csproj.CoreCompileInputs.cache
+G:\Workshop\CaesarCipherCompleteApp\obj\Debug\net7.0\CaesarCipherCompleteApp.dll
+G:\Workshop\CaesarCipherCompleteApp\obj\Debug\net7.0\refint\CaesarCipherCompleteApp.dll
+G:\Workshop\CaesarCipherCompleteApp\obj\Debug\net7.0\CaesarCipherCompleteApp.pdb
+G:\Workshop\CaesarCipherCompleteApp\obj\Debug\net7.0\CaesarCipherCompleteApp.genruntimeconfig.cache
+G:\Workshop\CaesarCipherCompleteApp\obj\Debug\net7.0\ref\CaesarCipherCompleteApp.dll
